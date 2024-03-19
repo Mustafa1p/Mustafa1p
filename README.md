@@ -21,10 +21,6 @@
     <img src="https://skillicons.dev/icons?i=cloudflare,php,nginx,git,github,idea,linux,visualstudio,vscode,selenium,swift,flutter"/>
   </a>
 </div>
-<div align="center">
-  <h2 align="center">🐍 Contributions</h2>
-  <img src="https://github.com/mustafa1p/mustafa1p/blob/main/github-user-contribution.svg"/>
-</div>
 
 <div align="center">
   <h2 align="center">📊 Statistics</h2>
