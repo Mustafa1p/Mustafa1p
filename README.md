@@ -23,13 +23,13 @@
 </div>
 <div align="center">
   <h2 align="center">🐍 Contributions</h2>
-  <img src="https://github.com/0xfff0800/0xfff0800/blob/main/github-user-contribution.svg"/>
+  <img src="https://github.com/mustafa1p/mustafa1p/blob/main/github-user-contribution.svg"/>
 </div>
 
 <div align="center">
   <h2 align="center">📊 Statistics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=0xfff0800&include_all_commits=true&theme=tokyonight_duo&show_icons=true&count_private=true&hide_border=true&mode=weekly">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=0xfff0800&theme=tokyonight_duo&hide_border=true&mode=weekly">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa1p&include_all_commits=true&theme=tokyonight_duo&show_icons=true&count_private=true&hide_border=true&mode=weekly">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mustafa1p&theme=tokyonight_duo&hide_border=true&mode=weekly">
 </div>
 
 
