@@ -23,12 +23,5 @@
 </div>
 
 <div align="center">
-  <h2 align="center">📊 Statistics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafa1p&include_all_commits=true&theme=tokyonight_duo&show_icons=true&count_private=true&hide_border=true&mode=weekly">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mustafa1p&theme=tokyonight_duo&hide_border=true&mode=weekly">
-</div>
-
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
 </div>
