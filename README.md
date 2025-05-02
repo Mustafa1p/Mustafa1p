@@ -8,9 +8,8 @@
 <div>
   <h2 align="center">💻 About me</h2>
   <div align="center">
-    <p>•   I am currently a Cyber Security</p>
-    <p>•   I am from IRAQ</p>
-    <p>•   I'm Developer Python/Javascript/HTML/Js/Css/Lua</p>
+    <p>•   IRAQ</p>
+    <p>•   Ultra Uknow {Python | Javascript | PHP | HTML | Js | Css | Lua}</p>
   </div>
 </div>
 <div align="center">
